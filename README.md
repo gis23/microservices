@@ -9,3 +9,5 @@ docker run -d --network=reddit --network-alias=post gis23/post:1.0
 docker run -d --network=reddit --network-alias=comment gis23/comment:1.0
 docker run -d --network=reddit -p 9292:9292 gis23/ui:2.0
 ```
+
+check app at http://docker-host:9292
