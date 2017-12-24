@@ -15,4 +15,4 @@ monitoring page at http://docker-host:9090
 
 grafana dashboards at http://docker-host:3000
 
-cadvisor available at http:docker-host:8080
+cadvisor available at http//:docker-host:8080
