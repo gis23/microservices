@@ -1,6 +1,7 @@
 # microservices
 
 edit `.env.example` file and rename it to `.env`
+
 edit `alertmanager/config.yml` file with your webhook uri and chanelname
 
 run
