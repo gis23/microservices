@@ -1,0 +1,4 @@
+alertmanager/config.yml
+.env
+*build_info.txt
+*.log
