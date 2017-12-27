@@ -2,7 +2,7 @@
 
 edit `.env.example` file and rename it to `.env`
 
-edit `alertmanager/config.yml` file with your webhook uri and chanelname
+edit `alertmanager/config.yml.example` file with your webhook uri and chanelname and save it as `alertmanager/config.yml`
 
 run
 ```
